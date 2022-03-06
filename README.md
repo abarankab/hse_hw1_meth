@@ -1,6 +1,6 @@
 # hse_hw1_meth
 
-[колаб](https://colab.research.google.com/drive/1qzvO8MXqGz-VJmJjl9BWOwZRfCPvppO1#scrollTo=I4JWS2QOxd_U)
+[колаб](https://colab.research.google.com/drive/1qzvO8MXqGz-VJmJjl9BWOwZRfCPvppO1#scrollTo=I4JWS2QOxd_U). HTML-отчеты в папке resources.
 
 ## Сравнение fastqc
 
